@@ -1,7 +1,7 @@
 # Unity-MongoDB-Connect
 Unity MongoDB DLLs needed to connect
 
-# DLLs List:
+# DLLs List
 1. DnsClient.dll
 2. MongoDB.Bson.dll
 3. MongoDB.Driver.Core.dll
